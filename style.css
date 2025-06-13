@@ -1,0 +1,66 @@
+ body{
+          color: black;
+          background-color: azure;
+        }
+     
+
+        #mainBox{
+            
+            box-shadow:1px 1px 2px 2px  rgb(0, 0, 0);
+            height: 300px;
+            width: 250px;
+            padding: 10px;
+            padding-left: 15px;
+            border-radius: 3px;
+            background-color: rgb(202, 201, 201);
+            margin-left: 630px;
+            margin-top: 80px;
+        
+        }
+        #btnbox{
+            /* display: flex; */
+            justify-content: space-evenly;
+            padding: 8px;
+            margin-left: 3px;
+            margin-top: 1px;
+            margin-bottom: 4px;
+
+        }
+          
+        #btn{
+            color: rgb(12, 12, 12);
+            padding: 2px;
+            margin: 3px;
+            background-color: rgb(230, 230, 230);
+            height: 45px;
+            width: 45px;
+            border-radius: 8px;
+            font-weight: bold;
+        }
+        #btn:hover{
+            background-color: #f6e976;
+        }
+  
+        #InputBox{
+            text-align: right;
+            font-size: 20px;
+            border-radius: 3px;
+            color:black;
+            background-color: rgb(253, 255, 255);
+            height: 40px;
+            width: 240px;
+
+        }
+        #equal{
+            color: rgb(12, 12, 12);
+            padding: 2px;
+            margin: 3px;
+            background-color: rgb(230, 230, 230);
+            height: 45px;
+            width: 80px;
+            border-radius: 8px;
+        }
+        h1{
+            text-align: center;
+            margin-top: 50px;
+        }

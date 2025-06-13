@@ -4,18 +4,18 @@ A simple and interactive Chatbot built using HTML, CSS, and JavaScript. This pro
 
 ### 💡Features:
 
-User-friendly 
+- User-friendly 
 
-Smooth transitions using CSS
+- Smooth transitions using CSS
 
-Basic conversational logic implemented in JavaScript
+- Basic conversational logic implemented in JavaScript
 
-Easily customizable design and behavior
+- Easily customizable design and behavior
 
 ### Technologies Used:
 
-HTML5 for structuring the chatbot UI
+- HTML5 for structuring the chatbot UI
 
-CSS3 for styling and animations
+- CSS3 for styling and animations
 
-JavaScript for handling user input and chatbot responses
+- JavaScript for handling user input and chatbot responses
